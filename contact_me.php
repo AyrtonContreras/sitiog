@@ -138,7 +138,7 @@ $headers = 'From: '.$email_from."\r\n".
 	<h2>Gracias! Nos pondremos en contacto contigo a la brevedad
  </h2>
 	<div class="input"> </div>
-	<form action="welcome.html" method="post">
+	<form action="cerrar.php" method="post">
 <br>
   <button id="sendMessageButton" class="btn btn-outline-success" type="submit">Retornar</button></a>
 </form>
